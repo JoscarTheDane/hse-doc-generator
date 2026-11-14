@@ -1,0 +1,10 @@
+# Secrets
+.api_key
+*.env
+# Python
+__pycache__/
+*.pyc
+# Temp attachments (downloaded during processing)
+temp_attachments/
+# HSE output folder (project data — do NOT commit)
+HSE/
